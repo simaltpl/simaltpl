@@ -1,7 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on Frontend Development<br>🌱 I’m currently learning UI & UX Design<br>💬 How to reach me: LinkedIn
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/simaltopal) 
 
@@ -26,8 +25,9 @@
 <br/>
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=simaltpl&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=simaltpl&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=simaltpl&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=simaltpl&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
