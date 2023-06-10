@@ -28,9 +28,10 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=simaltpl&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=simaltpl&theme=nightowl&hide_border=false)
+<div align="center">
+  <img style="width: 400px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simaltpl&layout=compact&show_icons=true&theme=nightowl">
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=simaltpl&icon=5&color=6)](https://visitcount.itsvg.in)
-<div align="center">
-<div><img style="width: 400px;" src="https://github-readme-stats.vercel.app/api?username=simaltpl&show_icons=true&theme=nightowl"></div>
-</div>
+
