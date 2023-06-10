@@ -31,3 +31,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=simaltpl&icon=5&color=6)](https://visitcount.itsvg.in)
+<div align="center">
+<div><img style="width: 400px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simaltpl&layout=compact&show_icons=true&theme=nightowl"></div>
+<div><img style="width: 400px;" src="https://github-readme-stats.vercel.app/api?username=simaltpl&show_icons=true&theme=nightowl"></div>
+</div>
